@@ -1,0 +1,65 @@
+.topnav {
+    overflow: hidden;
+    background-color: black;
+  }
+  
+  .topnav a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: white;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: white;
+    color: black;
+    border: solid 1px black;
+  }
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 20px;
+    line-height: 26px;
+    padding-bottom:40px ;
+}
+
+.Alles{
+    max-width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.Streep{
+    border-bottom: 1px solid black;
+    font-size: 36px;
+    line-height: 36px;
+    padding-bottom: 10px;
+}
+
+.p1{
+    font-size: 24px;
+    line-height: 32px;
+}
+
+h1{
+    font-size: 32px;
+    line-height: 32px;
+}
+.tip{
+    background: #def6ed;
+    border-radius: 4px;
+    padding: 25px;
+}
+.ingr li{
+    margin-bottom: 10px;
+}
+
+.bereid li{
+    padding-bottom: 20px;
+}
